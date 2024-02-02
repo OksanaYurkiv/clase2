@@ -17,7 +17,7 @@ public class Ventana extends JFrame implements ActionListener {
 	
 	Ventana(){
 		eti1=new JLabel("Elige opcion que te interesa");
-		eti1.setForeground(Color.BLACK);
+		eti1.setForeground(Color.BLACK);//hola
 		eti1.setBounds(105, 11, 200, 20);
 		
 		
